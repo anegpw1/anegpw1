@@ -6,10 +6,10 @@ Meu nome é Anelise
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
+### Você pode entrar em contato comigo 📫
 
+anelise.barros@escola.pr.gov.br
 
-
-
-
+@anelisegpw
 
 ![](https://media1.tenor.com/m/E8BrPIFSjSUAAAAd/newjeans-hanni-hanni-kpop.gif)
