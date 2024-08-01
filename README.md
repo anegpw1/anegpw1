@@ -1,15 +1,10 @@
 ## Boas vindas ao meu perfil ❤️
 
-Meu nome é Anelise
+Somos Anelise e Niara
 
-- Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- Estamos estudando na [Alura](https://www.alura.com.br)
+- Estamos nos desenvolvendo na linguagem JavaScript
+- Utilizamos esse espaço para nossa organização e compartilhamento dos projetos desenvolvidos
 
-### Você pode entrar em contato comigo 📫
-
-anelise.barros@escola.pr.gov.br
-
-[@anelisegpw](https://www.instagram.com/anegpw/)
-
-![](https://media1.tenor.com/m/E8BrPIFSjSUAAAAd/newjeans-hanni-hanni-kpop.gif)
+![](https://tenor.com/biSox.gif)
+![](https://tenor.com/bP5M2.gif)
