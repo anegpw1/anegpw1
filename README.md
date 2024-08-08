@@ -7,7 +7,4 @@ Somos Anelise e Niara
 - Utilizamos esse espaço para nossa organização e compartilhamento dos projetos desenvolvidos
 
 
-![](https://media.tenor.com/Mow3BwJQLc8AAAAi/cat-cat-meme.gif)
-
-
 ![](https://media1.tenor.com/m/-qBsG1HwR4oAAAAC/cat-dance-dancing-cat.gif)
