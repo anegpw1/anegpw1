@@ -6,6 +6,6 @@ Somos Anelise e Niara
 - Estamos nos desenvolvendo na linguagem JavaScript
 - Utilizamos esse espaço para nossa organização e compartilhamento dos projetos desenvolvidos
 
-![](https://tenor.com/biSox.gif)
+![](https://tenor.com/evd9kpz04OV.gif)
 
-![](https://tenor.com/bP5M2.gif)
+![](https://tenor.com/vGe6OIBI6Mo.gif)
